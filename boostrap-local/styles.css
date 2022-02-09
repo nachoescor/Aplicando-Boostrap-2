@@ -1,0 +1,22 @@
+
+body {
+    text-align: center;
+    background-color: rgb(235, 217, 220);
+}
+
+.logo{
+    width: 50%;
+    height: 40%;
+    
+    padding: 10px;
+}
+
+img  {
+    width: 90%;
+    height: 80%;
+}
+
+.container { 
+    align-items: center;
+    text-align: center;
+}
